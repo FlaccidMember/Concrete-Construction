@@ -5,11 +5,15 @@ Version: 1.0.0
 This is the main resource/dependency for the Concrete Construction mods.
 Alone, it doesn't do anything. The other 3 mods, depend on this to function.
 
+
+
 Name: Concrete Construction Main
 
 Version: 1.0.1
 
 This is the Main mod for Concrete Construction. When installed along side "Concrete Construction", it will provide a single tier 1 milestone to unlock the main components of the Concrete Construction mods.
+
+
 
 Name: Concrete Construction Asphalt
 
@@ -17,7 +21,7 @@ Version: 1.0.0
 
 This is the Asphalt segment of the Concrete Construction mods. When installed along side "Concrete Construction", it will provide a single tier 1 milestone to unlock the asphalt components of the Concrete Construction mods.
 
-If you have any questions, contact me (FishFace) via the Satisfactory modders discord.
+
 
 Name: Concrete Construction Curved Ramps
 
@@ -26,7 +30,7 @@ Version: 1.0.0
 This is the Curved Ramps segment of the Concrete Construction mods. When installed along side "Concrete Construction", it will provide a single tier 2 milestone to unlock the curved ramp components of the Concrete Construction mods.
 
 
-
+If you have any questions, contact me (FishFace) via the Satisfactory modders discord.
 
 
 This repo contains 5 main folders:
