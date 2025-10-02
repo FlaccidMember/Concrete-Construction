@@ -1,19 +1,48 @@
 Name: Concrete Construction
 
-Version: Pre-Release
+Version: 1.0.0
 
-This is a mod for Satisfactory that adds many new concrete and asphalt buildables to the game. 
-This version is incomplete and is being actively worked on. You're welcome to install this mod manually to your game but keep in mind that shapes currently available in this version might not be available upon release of v1.
+This is the main resource/dependency for the Concrete Construction mods.
+Alone, it doesn't do anything. The other 3 mods, depend on this to function.
+
+
+
+Name: Concrete Construction Main
+
+Version: 1.0.1
+
+This is the Main mod for Concrete Construction. When installed along side "Concrete Construction", it will provide a single tier 1 milestone to unlock the main components of the Concrete Construction mods.
+
+
+
+Name: Concrete Construction Asphalt
+
+Version: 1.0.0
+
+This is the Asphalt segment of the Concrete Construction mods. When installed along side "Concrete Construction", it will provide a single tier 1 milestone to unlock the asphalt components of the Concrete Construction mods.
+
+
+
+Name: Concrete Construction Curved Ramps
+
+Version: 1.0.0
+
+This is the Curved Ramps segment of the Concrete Construction mods. When installed along side "Concrete Construction", it will provide a single tier 2 milestone to unlock the curved ramp components of the Concrete Construction mods.
+
 
 If you have any questions, contact me (FishFace) via the Satisfactory modders discord.
 
-This repo contains 2 main folders:
-- ConcreteConstruction
-- CCFBXFiles
 
-If you just want to install the mod, then just copy "ConcreteConstruction" to your mod folder.
+This repo contains 5 main folders:
+- ConcreteConstruction    (The resource/dependency needed by the other 3 mods)
+- ConcreteConstructionMain     (The main mod)
+- ConcreteConstructionAsphalt   (The asphalt mod)
+- ConcreteConstructionCurvedRamps   (The curved ramps mod)
+- CCFBXFiles    (all the FBX files used in the creation of Concrete Construction)
 
-The CCFBXFiles folder, contains all of the FBX files that were made for Concrete Construction, which is about 450 at the time of writing this.
+If you just want to install the mod, then just copy "ConcreteConstruction" to your mod folder along with ConcreteConstructionMain, ConcreteConstructionAsphalt and/or ConcreteConstructionCurvedRamps (depending on which parts of the mod you want)
+
+The CCFBXFiles folder, contains all of the FBX files that were made for Concrete Construction, which is about 650 at the time of writing this.
 
 These versions of the FBX files are the ones currently being used in the mod, so if you find any problems I might have overlooked, please let me know so I can fix them in the mod aswell.
 
